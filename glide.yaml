@@ -1,8 +1,7 @@
-package: github.com/abutaha/aws-es-proxy
+package: github.com/SideScar/aws-es-proxy
 license: Apache
 owners:
-- name: Muslim AbuTaha
-  email: muslim.adel@gmail.com
+- name: SideScar
 import:
 - package: github.com/aws/aws-sdk-go
   version: ~v1.12.61
